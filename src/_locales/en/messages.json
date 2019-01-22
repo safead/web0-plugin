@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Web0",
+    "description": "User security tools."
+  },
+  "appDescription": {
+    "message": "Web0",
+    "description": "User security tools."
+  },
+  "btnTooltip": {
+    "message": "btnTooltip message",
+    "description": "btnTooltip description"
+  }
+}
